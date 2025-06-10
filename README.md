@@ -1,5 +1,5 @@
 # Agenda Telefônica em Python
-Este projeto é uma agenda telefônica simples desenvolvida em Python. O sistema permite cadastrar, editar, apagar e listar contatos, onde cada contato possui um nome e uma lista de telefones com tipos associados (residência, trabalho, fax, etc).
+Este projeto é uma agenda telefônica desenvolvida em Python usando exclusivamente a orientação a objetos. O sistema permite cadastrar, editar, apagar e listar contatos, onde cada contato possui um nome e uma lista de telefones com tipos associados (residência, trabalho, fax, etc).
 
 ## Funcionalidades
 - Adicionar novos contatos com nome e múltiplos telefones.
